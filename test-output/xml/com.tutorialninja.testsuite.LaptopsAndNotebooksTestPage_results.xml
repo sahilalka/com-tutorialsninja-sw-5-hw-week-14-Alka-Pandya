@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="regression test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.211">
+  <properties />
+  
+  
+            <testcase name="verifyProductsPriceDisplayHighToLowSuccessfully" time="1.522" classname="com.tutorialninja.testsuite.LaptopsAndNotebooksTestPage" />
+                <testcase name="verifyThatUserPlaceOrderSuccessfully" time="10.689" classname="com.tutorialninja.testsuite.LaptopsAndNotebooksTestPage" />
+      
+</testsuite>
